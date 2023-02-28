@@ -5,17 +5,17 @@ and we learn about coil image loading library for jetpack compose.
 
 This Andriod project consists of:
 
-MVVM ✅
+**MVVM** ✅
 
-Dependency Injection D.I ✅
+**Dependency Injection D.I** ✅
 
-ViewModel ✅
+**ViewModel** ✅
 
-Repository ✅
+**Repository** ✅
 
-API Service ✅
+**API Service** ✅
 
-JetPack Compose UI ✅
+**JetPack Compose UI** ✅
 
 
 ### Screenshots of the Android App.
